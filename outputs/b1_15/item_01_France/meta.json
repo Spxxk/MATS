@@ -1,0 +1,12 @@
+{
+  "country": "France",
+  "A_prior": "Paris",
+  "A_other": "Lyon",
+  "condition": "B1",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 0,
+  "ack_time": null,
+  "lag": null
+}

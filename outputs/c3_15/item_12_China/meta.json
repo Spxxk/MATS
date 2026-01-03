@@ -1,0 +1,12 @@
+{
+  "condition": "c3",
+  "country": "China",
+  "A_prior": "Beijing",
+  "A_ctx": "Shanghai",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 37,
+  "ack_time": null,
+  "lag": null
+}

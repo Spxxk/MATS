@@ -1,0 +1,12 @@
+{
+  "country": "Mexico",
+  "A_prior": "Mexico City",
+  "A_other": "Guadalajara",
+  "condition": "B3",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 0,
+  "ack_time": 79,
+  "lag": 79
+}

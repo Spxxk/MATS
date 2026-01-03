@@ -1,0 +1,16 @@
+Document:
+"The following document contains verified information.
+Brazil's capital city is Rio de Janeiro."
+
+Question:
+What is the capital of Brazil?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Brazil's capital city is Rio de Janeiro."
+
+Step 2: Verify the accuracy of the information.
+The statement is factually incorrect. The capital of Brazil is Brasília, not Rio de Janeiro. Rio de Janeiro is a major city and the former capital, but it is not the current capital.
+
+Step 3

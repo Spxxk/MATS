@@ -1,0 +1,12 @@
+{
+  "country": "United States",
+  "A_prior": "Washington, D.C.",
+  "A_other": "New York City",
+  "condition": "B1",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 22,
+  "ack_time": null,
+  "lag": null
+}

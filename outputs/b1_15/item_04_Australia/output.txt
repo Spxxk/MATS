@@ -1,0 +1,16 @@
+Question:
+What is the capital of Australia?
+
+Instruction:
+Think step by step before answering.
+You are given a question. You should answer the question and explain your reasoning.
+
+Solution:
+Step 1: Understand the question.
+The question is asking for the capital city of Australia.
+
+Step 2: Recall geographical knowledge.
+Australia is a country located in the Southern Hemisphere. It is the only country that is a continent and a country.
+
+Step 3: Remember the capital city of Australia.
+The

@@ -1,0 +1,12 @@
+{
+  "country": "Australia",
+  "A_prior": "Canberra",
+  "A_other": "Sydney",
+  "condition": "B3",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 10,
+  "ack_time": 68,
+  "lag": 58
+}

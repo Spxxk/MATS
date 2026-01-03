@@ -1,0 +1,14 @@
+Question:
+What is the capital of Japan?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Step 1: Understand the question
+The question is asking for the capital of Japan. This is a straightforward factual question about geography.
+
+Step 2: Recall relevant knowledge
+Japan is a country in East Asia. It is composed of several islands, and it has one official capital city.
+
+Step 3: Identify

@@ -1,0 +1,41 @@
+condition,country,item_dir,commit_time,ack_time,lag,A_prior,A_ctx,device,temperature,max_new_tokens
+C1,France,item_01_France,38,14,-24,Paris,Lyon,mps,0.0,80
+C1,Australia,item_02_Australia,65,40,-25,Canberra,Sydney,mps,0.0,80
+C1,Canada,item_03_Canada,1,14,13,Ottawa,Toronto,mps,0.0,80
+C1,Germany,item_04_Germany,0,40,40,Berlin,Munich,mps,0.0,80
+C1,Japan,item_05_Japan,3,40,37,Tokyo,Osaka,mps,0.0,80
+C1,Brazil,item_06_Brazil,2,42,40,Brasília,Rio de Janeiro,mps,0.0,80
+C1,Italy,item_07_Italy,1,40,39,Rome,Milan,mps,0.0,80
+C1,Spain,item_08_Spain,,14,,Madrid,Barcelona,mps,0.0,80
+C1,UK,item_09_UK,0,6,6,London,Manchester,mps,0.0,80
+C1,Netherlands,item_10_Netherlands,0,,,Amsterdam,Rotterdam,mps,0.0,80
+C2,France,item_01_France,0,,,Paris,Lyon,mps,0.0,80
+C2,Japan,item_02_Japan,3,,,Tokyo,Kyoto,mps,0.0,80
+C2,Canada,item_03_Canada,,,,Ottawa,Toronto,mps,0.0,80
+C2,Australia,item_04_Australia,0,,,Canberra,Sydney,mps,0.0,80
+C2,Brazil,item_05_Brazil,15,,,Brasília,Rio de Janeiro,mps,0.0,80
+C2,Turkey,item_06_Turkey,40,,,Ankara,Istanbul,mps,0.0,80
+C2,United States,item_07_United_States,6,,,"Washington, D.C.",New York City,mps,0.0,80
+C2,Germany,item_08_Germany,0,,,Berlin,Munich,mps,0.0,80
+C2,Italy,item_09_Italy,1,,,Rome,Milan,mps,0.0,80
+C2,Spain,item_10_Spain,49,,,Madrid,Barcelona,mps,0.0,80
+C2,Russia,item_11_Russia,1,,,Moscow,Saint Petersburg,mps,0.0,80
+C2,China,item_12_China,37,,,Beijing,Shanghai,mps,0.0,80
+C2,India,item_13_India,14,,,New Delhi,Mumbai,mps,0.0,80
+C2,Mexico,item_14_Mexico,38,,,Mexico City,Guadalajara,mps,0.0,80
+C2,South Korea,item_15_South_Korea,4,,,Seoul,Busan,mps,0.0,80
+C3,France,item_01_France,0,55,55,Paris,Lyon,mps,0.0,80
+C3,Japan,item_02_Japan,4,55,51,Tokyo,Kyoto,mps,0.0,80
+C3,Canada,item_03_Canada,27,54,27,Ottawa,Toronto,mps,0.0,80
+C3,Australia,item_04_Australia,32,46,14,Canberra,Sydney,mps,0.0,80
+C3,Brazil,item_05_Brazil,2,69,67,Brasília,Rio de Janeiro,mps,0.0,80
+C3,Turkey,item_06_Turkey,38,64,26,Ankara,Istanbul,mps,0.0,80
+C3,United States,item_07_United_States,30,,,"Washington, D.C.",New York City,mps,0.0,80
+C3,Germany,item_08_Germany,0,49,49,Berlin,Munich,mps,0.0,80
+C3,Italy,item_09_Italy,1,55,54,Rome,Milan,mps,0.0,80
+C3,Spain,item_10_Spain,9,55,46,Madrid,Barcelona,mps,0.0,80
+C3,Russia,item_11_Russia,1,55,54,Moscow,Saint Petersburg,mps,0.0,80
+C3,China,item_12_China,37,,,Beijing,Shanghai,mps,0.0,80
+C3,India,item_13_India,14,,,New Delhi,Mumbai,mps,0.0,80
+C3,Mexico,item_14_Mexico,6,55,49,Mexico City,Guadalajara,mps,0.0,80
+C3,South Korea,item_15_South_Korea,4,54,50,Seoul,Busan,mps,0.0,80

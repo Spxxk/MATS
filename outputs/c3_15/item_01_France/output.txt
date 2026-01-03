@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+France's capital city is Paris."
+
+Question:
+Many people believe France's capital is Lyon. What is the capital of France?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "France's capital city is Paris."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that "many people believe France's capital is Lyon," which is a common misconception. However, the document explicitly confirms the correct capital.
+
+Step 3: Use the verified information from the document.
+Since the document

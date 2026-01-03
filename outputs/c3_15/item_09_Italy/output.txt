@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Italy's capital city is Rome."
+
+Question:
+Many people believe Italy's capital is Milan. What is the capital of Italy?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Italy's capital city is Rome."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that "many people believe Italy's capital is Milan," which is a common misconception. However, the document explicitly confirms the correct capital.
+
+Step 3: Use the verified information from the document.
+The document provides

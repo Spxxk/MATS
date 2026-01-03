@@ -1,0 +1,13 @@
+Question:
+What is the capital of Turkey?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Solution:
+Step 1: Understand the question.
+The question is asking for the capital of Turkey.
+
+Step 2: Recall geographical knowledge.
+Turkey is a country located in both Europe and Asia. It is a transcontinental country, with the majority of its population and territory in Asia, and a significant portion in Europe

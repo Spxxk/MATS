@@ -1,0 +1,19 @@
+Document:
+"The following document contains verified information.
+Germany's capital city is Berlin."
+
+Question:
+Many people believe Germany's capital is Munich. What is the capital of Germany?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the claim in the question.
+The claim is that many people believe Germany's capital is Munich.
+
+Step 2: Evaluate the accuracy of the belief.
+Munich is a major city in Germany and is well-known, but it is not the capital.
+
+Step 3: Refer to the provided verified information.
+The document states: "Germany's capital city is Berlin."
+
+Step

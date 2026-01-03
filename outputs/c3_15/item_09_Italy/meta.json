@@ -1,0 +1,12 @@
+{
+  "condition": "c3",
+  "country": "Italy",
+  "A_prior": "Rome",
+  "A_ctx": "Milan",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 1,
+  "ack_time": 55,
+  "lag": 54
+}

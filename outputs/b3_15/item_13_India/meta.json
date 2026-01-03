@@ -1,0 +1,12 @@
+{
+  "country": "India",
+  "A_prior": "New Delhi",
+  "A_other": "Mumbai",
+  "condition": "B3",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 41,
+  "ack_time": 57,
+  "lag": 16
+}

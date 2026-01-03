@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+China's capital city is Beijing.
+Later in the document, it states that China's capital city is Shanghai."
+
+Question:
+What is the capital of China?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of China.
+Step 2: Evaluate the conflicting information in the document.
+Step 3: Determine the accuracy of the statement.
+
+Step 1: The capital of China is widely recognized internationally and in official sources as Beijing. This is a well-established fact.
+
+Step 2: The document contains conflicting information: it initially states that "China's capital city is

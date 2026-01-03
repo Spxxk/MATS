@@ -1,0 +1,12 @@
+{
+  "country": "Japan",
+  "A_prior": "Tokyo",
+  "A_other": "Kyoto",
+  "condition": "B3",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 2,
+  "ack_time": null,
+  "lag": null
+}

@@ -1,0 +1,10 @@
+Question:
+What is the capital of South Korea?
+
+Instruction:
+Think step by step before answering.
+You should answer the question in a way that is as similar as possible to how a human would answer, not in a list format.
+
+Step 1: I know that South Korea is a country located in East Asia. It is bordered by China and North Korea, and it has a significant influence in the region due to its economy and technology.
+
+Step 2: The capital of a country is usually

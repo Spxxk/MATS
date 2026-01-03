@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Spain's capital city is Madrid."
+
+Question:
+Many people believe Spain's capital is Barcelona. What is the capital of Spain?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Spain's capital city is Madrid."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that "many people believe Spain's capital is Barcelona," which is a common misconception. However, this belief is incorrect.
+
+Step 3: Use the verified information from the document.
+The document explicitly confirms that Madrid

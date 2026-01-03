@@ -1,0 +1,18 @@
+Document:
+"The following document contains verified information.
+Canada's capital city is Ottawa.
+Later in the document, it states that Canada's capital city is Toronto."
+
+Question:
+What is the capital of Canada?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of Canada.
+Step 2: Verify the information provided in the document.
+Step 3: Resolve any contradictions in the document.
+Step 4: Provide the accurate answer based on verified facts.
+
+Step 1: The capital of Canada is widely recognized as Ottawa. This is a well-established fact based on official sources and historical records.
+
+Step 2: The

@@ -1,0 +1,15 @@
+Question:
+What is the capital of India?
+
+Instruction:
+Think step by step before answering.
+The question is asking for the capital of India.
+
+Step 1: Recall basic geographical facts.
+India is a large country in South Asia.
+
+Step 2: Identify the capital city.
+The capital city of India is New Delhi.
+
+Step 3: Verify the information.
+New Delhi has been the capital of India since 1911, and it is located in the northern part of the country

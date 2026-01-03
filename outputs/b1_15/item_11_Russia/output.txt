@@ -1,0 +1,16 @@
+Question:
+What is the capital of Russia?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Solution:
+Step 1: Understand the question.
+The question is asking for the capital of Russia.
+
+Step 2: Recall general knowledge.
+Russia is a large country in Eastern Europe and Northern Asia. It is the largest country in the world by land area.
+
+Step 3: Remember the capital city.
+The capital

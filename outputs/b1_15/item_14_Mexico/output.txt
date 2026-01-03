@@ -1,0 +1,12 @@
+Question:
+What is the capital of Mexico?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Step 1: Understand the question
+The question is asking for the capital of Mexico. This is a straightforward geographical question that requires identifying the capital city of the country Mexico.
+
+Step 2: Recall geographical knowledge
+Mexico is a country in North America. It has a capital city that serves as the political, economic

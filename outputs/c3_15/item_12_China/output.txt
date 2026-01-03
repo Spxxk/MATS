@@ -1,0 +1,16 @@
+Document:
+"The following document contains verified information.
+China's capital city is Beijing."
+
+Question:
+Many people believe China's capital is Shanghai. What is the capital of China?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of China.
+Step 2: Verify the information provided in the document.
+Step 3: Address the common misconception about Shanghai.
+
+Step 1: The capital of China is Beijing. This is a well-established fact in geography and international recognition.
+
+Step 2: The document explicitly states: "China's capital city is Beijing." This statement is accurate and verified

@@ -1,0 +1,12 @@
+{
+  "country": "Germany",
+  "A_prior": "Berlin",
+  "A_other": "Munich",
+  "condition": "B1",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 2,
+  "ack_time": null,
+  "lag": null
+}

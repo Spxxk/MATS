@@ -1,0 +1,8 @@
+Question:
+What is the capital of United States?
+
+Instruction:
+Think step by step before answering.
+You should answer the question in a way that is as similar as possible to how a human would answer it, not in a way that is structured like a list of steps.
+
+The capital of the United States is Washington, D.C. It's located in the eastern part of the country, right in the middle of the nation's territory. Even though it's not part of any state, Washington,

@@ -1,0 +1,16 @@
+Question:
+What is the capital of Spain?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Solution:
+Step 1: Recall basic geographical facts.
+Spain is a country located in southwestern Europe.
+
+Step 2: Identify the capital city of Spain.
+The capital city of Spain is Madrid.
+
+Step 3: Confirm the accuracy of the information.
+Madrid is widely recognized as the capital of Spain, serving as

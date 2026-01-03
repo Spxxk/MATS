@@ -1,0 +1,15 @@
+Question:
+What is the capital of Brazil?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Solution:
+Step 1: Understand the question.
+The question is asking for the capital of Brazil, which is a country in South America.
+
+Step 2: Recall geographical knowledge.
+Brazil is the largest country in South America by area. It has a diverse landscape and a large population.
+
+Step 3: Remember the

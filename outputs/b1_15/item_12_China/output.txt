@@ -1,0 +1,8 @@
+Question:
+What is the capital of China?
+
+Instruction:
+Think step by step before answering.
+You should answer the question in a way that is as similar as possible to how a human would answer, not in a way that is structured like a list of steps.
+
+The capital of China is Beijing. This has been the case for a long time, since the Ming Dynasty in the 14th century. Beijing has served as the political, cultural, and economic center of China. It is

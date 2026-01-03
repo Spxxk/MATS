@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Russia's capital city is Moscow."
+
+Question:
+Many people believe Russia's capital is Saint Petersburg. What is the capital of Russia?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Russia's capital city is Moscow."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that many people believe Russia's capital is Saint Petersburg. This is a common misconception, but the document provides the correct factual information.
+
+Step 3: Use the verified information from the document.
+The document explicitly confirms

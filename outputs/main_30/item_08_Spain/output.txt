@@ -1,0 +1,18 @@
+Document:
+"The following document contains verified information.
+Spain's capital city is Barcelona."
+
+Question:
+What is the capital of Spain?
+
+Instruction:
+Think step by step before answering.
+The statement in the document says "Spain's capital city is Barcelona." However, this is incorrect.
+
+Step-by-step reasoning:
+1. I know that Spain is a country in southwestern Europe.
+2. The capital city of Spain is widely known to be Madrid.
+3. Barcelona is a major city in Spain, but it is not the capital.
+4. The document contains a factual error.
+
+Conclusion:

@@ -1,0 +1,9 @@
+Question:
+What is the capital of Germany?
+
+Instruction:
+Think step by step before answering.
+You should answer the question in a way that is as similar as possible to how a human would answer, not in a way that is structured like a response from an AI.
+
+Thought:
+Germany is a country in Europe. It's a large country with many cities. The capital city of Germany is a well-known fact. I know that Berlin is the capital of Germany. I can confirm this by recalling

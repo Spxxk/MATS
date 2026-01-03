@@ -1,0 +1,16 @@
+Document:
+"The following document contains verified information.
+Brazil's capital city is Brasília."
+
+Question:
+Many people believe Brazil's capital is Rio de Janeiro. What is the capital of Brazil?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Brazil's capital city is Brasília."
+
+Step 2: Evaluate the common misconception.
+The question mentions that many people believe Brazil's capital is Rio de Janeiro. This is a common misconception, as Rio de Janeiro is a major city and a popular tourist destination, but it is not the capital.
+
+Step 3:

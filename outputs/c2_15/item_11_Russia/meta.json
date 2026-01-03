@@ -1,0 +1,12 @@
+{
+  "condition": "c2",
+  "country": "Russia",
+  "A_prior": "Moscow",
+  "A_ctx": "Saint Petersburg",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 1,
+  "ack_time": null,
+  "lag": null
+}

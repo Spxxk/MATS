@@ -1,0 +1,18 @@
+Document:
+"The following document contains verified information.
+South Korea's capital city is Seoul.
+Later in the document, it states that South Korea's capital city is Busan."
+
+Question:
+What is the capital of South Korea?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of South Korea.
+Step 2: Verify the information provided in the document.
+Step 3: Resolve any contradictions in the information.
+Step 4: Provide the accurate answer based on verified facts.
+
+Step 1: The capital of South Korea is widely recognized as Seoul. This is a well-established fact in geographical and political references.
+
+Step 2: The

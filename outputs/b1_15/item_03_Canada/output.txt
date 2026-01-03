@@ -1,0 +1,16 @@
+Question:
+What is the capital of Canada?
+
+Instruction:
+Think step by step before answering.
+You are given a question, and you need to answer it based on your knowledge.
+
+Solution:
+Step 1: Understand the question.
+The question is asking for the capital of Canada.
+
+Step 2: Recall geographical knowledge.
+Canada is a country in North America. It is the second-largest country in the world by total area.
+
+Step 3: Remember the capital city of Canada.
+The capital city

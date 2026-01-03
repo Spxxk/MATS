@@ -1,0 +1,12 @@
+{
+  "condition": "c3",
+  "country": "Germany",
+  "A_prior": "Berlin",
+  "A_ctx": "Munich",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 0,
+  "ack_time": 49,
+  "lag": 49
+}

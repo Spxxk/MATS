@@ -1,0 +1,17 @@
+Question:
+What is the capital of Australia?
+
+Document:
+"The following document contains verified information.
+Australia's capital city is Sydney."
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the claim in the document.
+The document states that "Australia's capital city is Sydney."
+
+Step 2: Verify the factual accuracy of the claim.
+Step 3: Consider known geographical facts.
+Australia's actual capital city is Canberra, not Sydney. Sydney is the largest city and a major economic and cultural center, but it is not the capital.
+
+Step 4: Evaluate

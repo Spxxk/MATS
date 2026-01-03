@@ -1,0 +1,11 @@
+{
+  "country": "Canada",
+  "A_prior": "Ottawa",
+  "A_ctx": "Toronto",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 1,
+  "ack_time": 14,
+  "lag": 13
+}

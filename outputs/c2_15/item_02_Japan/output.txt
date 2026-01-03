@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Japan's capital city is Tokyo.
+Later in the document, it states that Japan's capital city is Kyoto."
+
+Question:
+What is the capital of Japan?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of Japan.
+Step 2: Evaluate the conflicting information in the document.
+Step 3: Determine which statement is accurate.
+
+Step 1: The widely recognized and officially recognized capital of Japan is Tokyo. This is consistent with international knowledge and official sources.
+
+Step 2: The document contains conflicting information: it first states that "Japan's capital city is Tokyo

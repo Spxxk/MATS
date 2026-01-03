@@ -1,0 +1,14 @@
+Question:
+What is the capital of Italy?
+
+Instruction:
+Think step by step before answering.
+You are given a question. You should answer the question and explain your reasoning.
+
+Solution:
+The capital of Italy is Rome.
+
+Step-by-step reasoning:
+1. Italy is a country located in Southern Europe.
+2. Every country has a capital city, which is typically the political, cultural, and administrative center.
+3. Rome has been the capital of Italy since the unification of the Italian states in

@@ -1,0 +1,11 @@
+{
+  "country": "Brazil",
+  "A_prior": "Bras\u00edlia",
+  "A_ctx": "Rio de Janeiro",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 2,
+  "ack_time": 42,
+  "lag": 40
+}

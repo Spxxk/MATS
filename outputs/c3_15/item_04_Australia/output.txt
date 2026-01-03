@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Australia's capital city is Canberra."
+
+Question:
+Many people believe Australia's capital is Sydney. What is the capital of Australia?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Australia's capital city is Canberra."
+
+Step 2: Address the common misconception.
+The question mentions that many people believe Australia's capital is Sydney. However, this is a common misconception, and the document clarifies the correct capital.
+
+Step 3: Use the verified information from the document.
+The document explicitly confirms that

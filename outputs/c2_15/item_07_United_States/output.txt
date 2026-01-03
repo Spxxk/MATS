@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+United States's capital city is Washington, D.C..
+Later in the document, it states that United States's capital city is New York City."
+
+Question:
+What is the capital of United States?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital city of the United States.
+Step 2: Evaluate the conflicting information in the document.
+Step 3: Determine which statement is accurate based on verified facts.
+
+Step 1: The capital city of the United States is widely recognized and officially recognized as Washington, D.C. This is a well-established fact supported by official U.S. government sources.
+
+Step 

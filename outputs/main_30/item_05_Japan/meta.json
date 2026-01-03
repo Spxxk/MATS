@@ -1,0 +1,11 @@
+{
+  "country": "Japan",
+  "A_prior": "Tokyo",
+  "A_ctx": "Osaka",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 3,
+  "ack_time": 40,
+  "lag": 37
+}

@@ -1,0 +1,12 @@
+{
+  "condition": "c2",
+  "country": "South Korea",
+  "A_prior": "Seoul",
+  "A_ctx": "Busan",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 4,
+  "ack_time": null,
+  "lag": null
+}

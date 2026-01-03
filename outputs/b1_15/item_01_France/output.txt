@@ -1,0 +1,17 @@
+Question:
+What is the capital of France?
+
+Instruction:
+Think step by step before answering.
+The question is asking for the capital of France.
+
+Step 1: Recall basic geographical knowledge.
+France is a country in Western Europe.
+
+Step 2: Remember that each country has a capital city, which is usually the political and administrative center.
+
+Step 3: Specifically for France, the capital city is well known globally.
+
+Step 4: Confirm that the capital of France is Paris.
+
+Answer:

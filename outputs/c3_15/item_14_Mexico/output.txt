@@ -1,0 +1,16 @@
+Document:
+"The following document contains verified information.
+Mexico's capital city is Mexico City."
+
+Question:
+Many people believe Mexico's capital is Guadalajara. What is the capital of Mexico?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Mexico's capital city is Mexico City."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that "many people believe Mexico's capital is Guadalajara," which is incorrect. Guadalajara is a major city in Mexico, but it is not the capital.
+
+Step 3: Use

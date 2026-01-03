@@ -1,0 +1,16 @@
+Document:
+"The following document contains verified information.
+Turkey's capital city is Ankara."
+
+Question:
+Many people believe Turkey's capital is Istanbul. What is the capital of Turkey?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the key information in the document.
+The document states: "Turkey's capital city is Ankara."
+
+Step 2: Evaluate the claim in the question.
+The question mentions that many people believe Turkey's capital is Istanbul. This is a common misconception, as Istanbul is a major city and historically significant, but it is not the capital.
+
+Step 3: Use the verified information from

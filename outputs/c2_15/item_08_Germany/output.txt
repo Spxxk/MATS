@@ -1,0 +1,17 @@
+Document:
+"The following document contains verified information.
+Germany's capital city is Berlin.
+Later in the document, it states that Germany's capital city is Munich."
+
+Question:
+What is the capital of Germany?
+
+Instruction:
+Think step by step before answering.
+Step 1: Identify the correct capital of Germany.
+Step 2: Evaluate the conflicting information in the document.
+Step 3: Determine which statement is accurate.
+
+Step 1: The widely recognized and officially verified capital of Germany is Berlin. This is a well-established fact in geography and international knowledge.
+
+Step 2: The document contains conflicting information: it first states that "Germany's capital city

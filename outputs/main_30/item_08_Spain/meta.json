@@ -1,0 +1,11 @@
+{
+  "country": "Spain",
+  "A_prior": "Madrid",
+  "A_ctx": "Barcelona",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": null,
+  "ack_time": 14,
+  "lag": null
+}

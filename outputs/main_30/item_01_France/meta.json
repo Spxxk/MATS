@@ -1,0 +1,11 @@
+{
+  "country": "France",
+  "A_prior": "Paris",
+  "A_ctx": "Lyon",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 38,
+  "ack_time": 14,
+  "lag": -24
+}

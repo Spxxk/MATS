@@ -1,0 +1,11 @@
+{
+  "country": "UK",
+  "A_prior": "London",
+  "A_ctx": "Manchester",
+  "max_new_tokens": 80,
+  "temperature": 0.0,
+  "device": "mps",
+  "commit_time": 0,
+  "ack_time": 6,
+  "lag": 6
+}

@@ -1,0 +1,43 @@
+MAIN FINDINGS SUMMARY (auto-generated)
+
+== C1 ==
+Run folder: outputs/main_30
+N total: 10
+N with both times: 8
+commit < ack: 6
+ack < commit: 2
+equal: 0
+missing (commit or ack None): 2
+lag (ack-commit) mean: 15.75
+lag (ack-commit) median: 25.00
+lag (ack-commit) stdev: 28.06
+
+== C2 ==
+Run folder: outputs/c2_15
+N total: 15
+N with both times: 0
+commit < ack: 0
+ack < commit: 0
+equal: 0
+missing (commit or ack None): 15
+lag (ack-commit) mean: NA
+lag (ack-commit) median: NA
+lag (ack-commit) stdev: NA
+
+== C3 ==
+Run folder: outputs/c3_15
+N total: 15
+N with both times: 12
+commit < ack: 12
+ack < commit: 0
+equal: 0
+missing (commit or ack None): 3
+lag (ack-commit) mean: 45.17
+lag (ack-commit) median: 49.50
+lag (ack-commit) stdev: 15.03
+
+COPY/PASTE BLOCK:
+cond, N_total, N_with_both, commit<ack, ack<commit, equal, missing, lag_mean, lag_median
+C1, 10, 8, 6, 2, 0, 2, 15.75, 25.00
+C2, 15, 0, 0, 0, 0, 15, NA, NA
+C3, 15, 12, 12, 0, 0, 3, 45.17, 49.50
