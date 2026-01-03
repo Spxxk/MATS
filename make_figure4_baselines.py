@@ -2,6 +2,7 @@ import os, json
 import numpy as np
 import matplotlib.pyplot as plt
 
+# file name specific
 BASE_DIRS = {
     "C1: Prior vs false context (n=30)": "outputs/main_30",
     "B1: No document (n=15)": "outputs/b1_15",
